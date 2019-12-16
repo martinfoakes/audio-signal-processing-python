@@ -1,6 +1,6 @@
 # Covering the basic Mathematics that will be involved in learning about Audio Signal Processing
 
-# SINUSOIDAL FUNCTION (i.e. a SINEWAVE)
+# SINUSOIDAL FUNCTION (i.e. a SINEWAVE) - 
 
 # Is a mathematical curve that describes a smooth repetitve oscillation
 # To plot a sinewave using Python you can do the following:
